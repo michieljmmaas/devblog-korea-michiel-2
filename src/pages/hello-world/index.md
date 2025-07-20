@@ -7,12 +7,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consectetur dolo
 
 <!-- end -->
 
-Dit is met aangepast tekst. Blabla bla
+Nu heeft het andere tekst. 
 
-```javascript
-$(document).ready(function() {
-    console.log('Welcome!');
-})
-```
+En een afbeelding.
 
-Curabitur non blandit dui. Maecenas in ipsum nec leo pellentesque sodales et nec quam. Ut ut facilisis metus, sit amet aliquam nibh. Quisque blandit dui quis augue dictum vehicula.
+![Ninja](./foo.jpg)
